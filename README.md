@@ -18,6 +18,10 @@
   <img width='32%'  src='https://i3.ytimg.com/vi/j6RZqCe4hTs/maxresdefault.jpg' alt='Aplicando el método LEAN Startup en tu PORTFOLIO' />
 </a>
 
+<a href='https://youtu.be/FoozjX6WyYE' title="Vulnerando mi Máquina Física W10 - ver en Youtube" target='_blank'>
+  <img width='32%'  src='https://i3.ytimg.com/vi/j6RZqCe4hTs/maxresdefault.jpg' alt='Vulnerando mi Máquina Física W10' />
+</a>
+
 
 ## 📝 Certificaciones :
 ## EHCA
