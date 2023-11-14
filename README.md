@@ -5,7 +5,7 @@
 [![instagram](https://img.shields.io/static/v1?label=&message=instagram&color=5B51D8&logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/cmonza/)
 [![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/carlmonsalve/)
 [![github](https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/HackWithCAM)
-[![facebook](https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook)](https://www.facebook.com/carlosandres.monsalvenaranjo)
+[![facebook](https://img.shields.io/badge/Facebook-brightgreen?style=for-the-badge&labelColor=black&logo=facebook)](https://www.facebook.com/carlosandres.monsalvenaranjo)
 
 
 
