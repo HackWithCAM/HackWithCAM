@@ -19,8 +19,7 @@
 </a>
 
 
-
-## 📝 Artículos de mi web [eduardofierro.pro/blog](https://eduardofierro.pro/blog/):
-- [Qué demandan las empresas](https://eduardofierro.pro/blog/https://eduardofierro.pro/blog/que-demandan-las-empresas/)
-- [Autolikes en Instagram con Javascript](https://eduardofierro.pro/blog/autolikes-en-instagram-con-javascript/)
-- [Que se trabaja en programación web. Nivel Junior](https://eduardofierro.pro/blog/que-se-trabaja-en-programacion-web/)
+## 📝 Certificaciones :
+##- [EHCA](https://media.licdn.com/dms/image/D4D22AQF7fP0IN_hqJw/feedshare-shrink_800/0/1699412935854?e=1703116800&v=beta&t=byigpmudoTIvFp4h_blN3wji4y6UikiC8WzmzIsmgZ8)
+##- [PMJ](https://app.kajabi.com/certificates/737e47a6)
+##- [Seguridad Informática](https://i.ibb.co/dK92QRG/Certificado-Internacional-en-Ciberseguridad.png)
