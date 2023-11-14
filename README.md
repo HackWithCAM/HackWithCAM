@@ -20,9 +20,9 @@
 
 
 ## 📝 Certificaciones :
-## EHCA:
+## EHCA
 - [LINK](https://media.licdn.com/dms/image/D4D22AQF7fP0IN_hqJw/feedshare-shrink_800/0/1699412935854?e=1703116800&v=beta&t=byigpmudoTIvFp4h_blN3wji4y6UikiC8WzmzIsmgZ8)
-- ## PMJ:
+## PMJ
 - [LINK](https://app.kajabi.com/certificates/737e47a6)
-- ## SEGURIDAD INFORMÁTICA:
+## SEGURIDAD INFORMÁTICA
 - [LINK](https://i.ibb.co/dK92QRG/Certificado-Internacional-en-Ciberseguridad.png)
