@@ -16,7 +16,7 @@
 ## 📹 Vídeos favoritos de mi canal de [Youtube](https://www.youtube.com/channel/UCe_bOHY9exo_enRp8_amdOA) [![Youtube](https://i.ibb.co/0DC2pLM/5-removebg-preview.png)](https://www.youtube.com/channel/UCe_bOHY9exo_enRp8_amdOA)
 
 <a href='https://youtu.be/FoozjX6WyYE' title="Vulnerando mi Máquina Física W10 - ver en Youtube" target='_blank'>
-  <img width='32%'  src='https://i3.ytimg.com/vi/j6RZqCe4hTs/maxresdefault.jpg' alt='Vulnerando mi Máquina Física W10' />
+  <img width='32%'  src='https://i.ibb.co/mFXJrQ3/294.png' alt='Vulnerando mi Máquina Física W10' />
 </a>
 
 
