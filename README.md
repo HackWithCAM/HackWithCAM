@@ -21,9 +21,9 @@
 
 
 ## 📝 Certificaciones :
-## EHCA
-- [LINK](https://media.licdn.com/dms/image/D4D22AQF7fP0IN_hqJw/feedshare-shrink_800/0/1699412935854?e=1703116800&v=beta&t=byigpmudoTIvFp4h_blN3wji4y6UikiC8WzmzIsmgZ8)
-## PMJ
-- [LINK](https://app.kajabi.com/certificates/737e47a6)
-## SEGURIDAD INFORMÁTICA
-- [LINK](https://i.ibb.co/dK92QRG/Certificado-Internacional-en-Ciberseguridad.png)
+## [EHCA](https://media.licdn.com/dms/image/D4D22AQF7fP0IN_hqJw/feedshare-shrink_800/0/1699412935854?e=1703116800&v=beta&t=byigpmudoTIvFp4h_blN3wji4y6UikiC8WzmzIsmgZ8)
+## [PMJ](https://app.kajabi.com/certificates/737e47a6)
+## [SEGURIDAD INFORMÁTICA](https://i.ibb.co/dK92QRG/Certificado-Internacional-en-Ciberseguridad.png)
+## [DIPLOMADO IoT FUNDAMENTALS: CONNECTING THINGS](https://i.ibb.co/XJQWLRS/CARLOS-ANDR-SMONSALVE-NARANJO-Io-T-Fundamentals-certificate-page-0001.jpg)
+## [DIPLOMADO IoT FUNDAMENTALS: IoT SECURITY](https://i.ibb.co/SRgXs5Y/CARLOS-ANDR-SMONSALVE-NARANJO-Io-T-Security-BOS-certificate-page-0001.jpg)
+
