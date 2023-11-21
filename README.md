@@ -29,5 +29,5 @@
 
 
 ## 📝 Insignias :
-## [INSIGNIA EHCA](https://badgr.com/public/assertions/-XK3m-s2QQmNv24u97sojw?identity__email=monsalvenaranjo@gmail.com&action=download)
+## [INSIGNIA EHCA](https://badgr.com/public/assertions/-XK3m-s2QQmNv24u97sojw)
 
