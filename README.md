@@ -1,6 +1,6 @@
 ### Visitar mi Portafolio Profesional
 
-[![Header](https://i.ibb.co/XC69V7y/Portafolio-Git-Hub.jpg "Header")](https://www.canva.com/design/DAFz7fGbc90/WU7TDvquz5kl7s4BIiJMog/view?utm_content=DAFz7fGbc90&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+[![Header](https://i.ibb.co/hCQnMw1/Portafolio-Git-Hub-Tama-o-original.png "PORTAFOLIO PROFESIONAL")](https://www.canva.com/design/DAFz7fGbc90/WU7TDvquz5kl7s4BIiJMog/view?utm_content=DAFz7fGbc90&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
 [![Youtube](https://img.shields.io/static/v1?label=&message=youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/channel/UCe_bOHY9exo_enRp8_amdOA)
