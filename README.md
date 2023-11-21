@@ -29,4 +29,4 @@
 
 
 ## 📝 Insignias :
-## [![INSIGNIA EHCA](https://i.ibb.co/Xs3s6px/Cert-Join-Certifications-LLC-Ethical-Hacking-Certified-Associate-EHCA-2023-11-19.png)](https://badgr.com/public/assertions/-XK3m-s2QQmNv24u97sojw?identity__email=monsalvenaranjo@gmail.com&action=download)
+## [![INSIGNIA EHCA](https://i.ibb.co/Xs3s6px/Cert-Join-Certifications-LLC-Ethical-Hacking-Certified-Associate-EHCA-2023-11-19.png)]
