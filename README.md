@@ -27,3 +27,7 @@
 ## [DIPLOMADO IoT FUNDAMENTALS: CONNECTING THINGS](https://i.ibb.co/XJQWLRS/CARLOS-ANDR-SMONSALVE-NARANJO-Io-T-Fundamentals-certificate-page-0001.jpg)
 ## [DIPLOMADO IoT FUNDAMENTALS: IoT SECURITY](https://i.ibb.co/SRgXs5Y/CARLOS-ANDR-SMONSALVE-NARANJO-Io-T-Security-BOS-certificate-page-0001.jpg)
 
+
+## 📝 Insignias :
+## [INSIGNIA EHCA](https://badgr.com/public/assertions/-XK3m-s2QQmNv24u97sojw?identity__email=monsalvenaranjo@gmail.com&action=download)
+
