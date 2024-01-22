@@ -21,6 +21,9 @@
   <img width='32%'  src='https://i.ibb.co/mFXJrQ3/294.png' alt='Vulnerando mi Máquina Física W10' />
 </a>
 
+<a href='https://www.youtube.com/watch?v=MKgFGKHjAU4' title="Vulnerando W7 con Eternal-Blue - RDP - Rompiendo Usuario y Contraseña - ver en Youtube" target="_blank">
+  <img width='32%'  src='https://i.ibb.co/MB5F8DL/RDESKTOP.png' alt='Vulnerando W7 con Eternal-Blue' />
+</a>
 
 ## 📝 Certificaciones :
 ## [EHCA](https://media.licdn.com/dms/image/D4D22AQF7fP0IN_hqJw/feedshare-shrink_800/0/1699412935854?e=1703116800&v=beta&t=byigpmudoTIvFp4h_blN3wji4y6UikiC8WzmzIsmgZ8)
